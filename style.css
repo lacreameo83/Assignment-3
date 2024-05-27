@@ -43,7 +43,8 @@ justify-content: center;
     bottom: 40px;
     border-radius: 50px;
     border: 5px solid white;
-    
+     object-position: center;
+    object-position:0 1px;
     
 }
 .move {
